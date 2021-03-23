@@ -1,0 +1,15 @@
+{
+  "name": "my_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc ./src/index.ts --target ES2020"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}

@@ -1,0 +1,37 @@
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    width: 50%;
+    margin: 10px 10px 10px 0px;
+}
+
+ul {
+    padding: 0px;
+    list-style-type: none;
+
+}
+
+input {
+  margin:0;
+}
+
+.push-right{
+  margin: 0 10px 0 0;
+}
+
+.info{
+  color: blue;
+  font-weight: bold;
+}
+
+.remove-btn{
+  border:0;
+  font-weight:bold;
+  color: #ff0000;
+  background-color: transparent;
+}
+
+
+
+
+
